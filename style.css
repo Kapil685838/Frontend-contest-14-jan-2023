@@ -166,3 +166,7 @@ td {
 td:last-child, th:last-child {
     border-right: none;
 }
+
+.text-align-center {
+    text-align: center;
+}
